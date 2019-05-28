@@ -2,5 +2,5 @@
 <schema>
     <fieldType name="l" class="boolean" defaultValue="true"/>
     <fieldType name="p" class="int" defaultValue="9001"/>
-    <fieldType name="d" class="java.lang.String" defaultValue="/var"/>
+    <fieldType name="d" class="String" defaultValue="/var"/>
 </schema>
